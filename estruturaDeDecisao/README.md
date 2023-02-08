@@ -23,6 +23,6 @@ Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
 
 
 ## Referência
-Lista do Execício Abaixo
+Link da Lista dos Execício Abaixo
 
 https://wiki.python.org.br/EstruturaDeDecisao
