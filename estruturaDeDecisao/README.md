@@ -2,7 +2,7 @@
 # Exercícios Resolvidos Phyton Br
 
 Lista de Exercícios Resolvidos Sobre Estrutura de Decisão. comentada em Java.
-6 Exercícios resolvido até o momento, Resolvo três questões todos os dias.
+6 Exercícios resolvido até o momento, Resolvo três questões todos os dias(dependendo do nível do meu nível de tempo).
 Modifiquei a questão 9,adicionando mais uma camada lógica.
 
 ## 🚀 Sobre mim
