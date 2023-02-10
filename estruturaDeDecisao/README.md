@@ -6,6 +6,7 @@ Lista de Exercícios Resolvidos Sobre Estrutura de Decisão. comentada em Java.
 
 
 OBS:Modifiquei a questão 9,adicionando mais uma camada lógica.
+OBS:Estou respondendo toda a lista
 
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack...
